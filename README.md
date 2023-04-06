@@ -59,7 +59,11 @@
 </html>
 
 ```
-###Social Media.html
+![Screenshot 2023-04-06 185310](https://user-images.githubusercontent.com/94692595/230391844-e5eb6a1d-03d0-4723-9543-3c4baecd7791.png)
+![Screenshot 2023-04-06 185339](https://user-images.githubusercontent.com/94692595/230391873-deab3c13-f913-49c7-9b0f-3a966aacf7fd.png)
+
+
+### Social Media.html
 ```
 <!DOCTYPE html>
 <html>
@@ -80,3 +84,5 @@
             <pre><a href="https://github.com/SaiDarshan2003">Github</a></pre>
     </div>
 ```
+![Screenshot 2023-04-06 185412](https://user-images.githubusercontent.com/94692595/230391907-05a1b33a-8b3a-4c40-a26a-aa2a7a4ddfb9.png)
+![Screenshot 2023-04-06 185426](https://user-images.githubusercontent.com/94692595/230391929-8616b44f-0148-48d6-a866-e522e9f9322d.png)
