@@ -114,7 +114,6 @@ Display the webpage in a browser.
 ![Screenshot 2023-04-06 185412](https://user-images.githubusercontent.com/94692595/230391907-05a1b33a-8b3a-4c40-a26a-aa2a7a4ddfb9.png)
 ![Screenshot 2023-04-06 185426](https://user-images.githubusercontent.com/94692595/230391929-8616b44f-0148-48d6-a866-e522e9f9322d.png)
 
-### Github Link to the project:
-```
-https://github.com/SaiDarshan2003/Portfolio/blob/main/README.md
-```
+## Result:
+
+We have successfully created a portfolio using HTML and CSS.
