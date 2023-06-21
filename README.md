@@ -3,7 +3,29 @@
 
 ## Aim:
 
-To create a portfolio using Html and CSS.
+To create a portfolio using HTML and CSS.
+
+## Algorithm:
+
+Step 1:
+
+Open a IDE.
+
+Step 2:
+
+Create a folder to store all the files and media.
+
+Step 3:
+
+Create a index.html as home page.
+
+Step 4:
+
+Similarly,create and add media into the webpage.
+
+Step 5:
+
+Display the webpage in a browser.
 
 ### Portfolio.html
 ```
